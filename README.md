@@ -1,4 +1,6 @@
-# Desarrollo de aplicaciones web. Laboratorio 1
+# Desarrollo de aplicaciones web
+
+> Laboratorio 1
 
 ## General info
 
