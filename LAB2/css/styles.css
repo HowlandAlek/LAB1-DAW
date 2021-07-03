@@ -1,0 +1,90 @@
+* {
+	box-sizing: border-box;
+}
+
+@font-face {
+	font-family: "Montserrat";
+	src: url("'https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300&display=swap'");
+}
+
+img {
+	border-radius: 50%;
+}
+
+header {
+	text-align: center;
+}
+
+header h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 40px;
+	margin-bottom: 0;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 300;
+	letter-spacing: 0.5em;
+}
+header p {
+	margin-top: 0;
+	margin-bottom: 30px;
+	font-family: "Montserrat", sans-serif;
+	font-style: normal;
+	font-weight: 100;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: right;
+}
+
+nav li {
+	display: inline;
+	margin-left: 10px;
+}
+
+nav a {
+	color: black;
+	text-decoration: none;
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+}
+
+.float-container-1 {
+	border-top: 1px solid black;
+}
+
+.float-container-2 {
+	margin-bottom: 30px;
+}
+
+.container-child {
+	width: 50%;
+	float: left;
+	font-family: "Montserrat", sans-serif;
+	height: 160px;
+	min-width: 200px;
+}
+
+.container-child ul {
+	list-style-type: none;
+}
+
+.container-child h2 {
+	text-align: center;
+	font-size: 21px;
+	letter-spacing: 0.25em;
+}
+
+.container-child:hover {
+	background-color: rgb(219, 218, 218);
+}
+
+footer {
+	clear: left;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+	display: block;
+	position: relative;
+	top: 100px;
+}
