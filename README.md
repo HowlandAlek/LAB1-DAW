@@ -6,7 +6,7 @@
 
 Prácticas de laboratorio para la materia de Desarrollo de aplicaciones web.
 
-## Technologies
+## Tecnologías
 
 - HTML5
 - CSS
