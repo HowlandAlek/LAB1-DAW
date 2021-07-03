@@ -1,11 +1,12 @@
 # Desarrollo de aplicaciones web
 
-> Laboratorio 1
+> Repositorio de laboratorios
 
-## General info
+## Información general
 
-Práctica de laboratorio para la materia de Desarrollo de aplicaciones web.
+Prácticas de laboratorio para la materia de Desarrollo de aplicaciones web.
 
 ## Technologies
 
 - HTML5
+- CSS
