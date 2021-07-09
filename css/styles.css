@@ -31,25 +31,27 @@ header h4 {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
-	align-items: stretch;
+	align-content: center;
 	font-family: "Montserrat", sans-serif;
 }
 
-.lab-container a {
+.lab-btn a {
 	text-align: center;
 	color: white;
 	text-decoration: none;
 }
 
-.lab-container p {
-	text-align: center;
+.lab-btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0 20px;
 	height: 100px;
 	margin: 10px 20px;
-	flex: 1;
-	padding: 50px;
 	background-color: #3448e9;
 	border-radius: 10px;
 	color: white;
 	box-shadow: 0px 22px 40px -12px #4c5feb;
 	font-size: 14px;
+	flex: 1;
 }
