@@ -10,3 +10,4 @@ Prácticas de laboratorio para la materia de Desarrollo de aplicaciones web.
 
 - HTML5
 - CSS
+- JavaScript
